@@ -12,3 +12,4 @@ C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PruebaAC1\obj\Debug\net8.0\refin
 C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PruebaAC1\obj\Debug\net8.0\PruebaAC1.pdb
 C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PruebaAC1\obj\Debug\net8.0\PruebaAC1.genruntimeconfig.cache
 C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PruebaAC1\obj\Debug\net8.0\ref\PruebaAC1.dll
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PruebaAC1\obj\Debug\net8.0\PruebaAC1.sourcelink.json
